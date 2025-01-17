@@ -1,5 +1,5 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b159
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of the DC motor driver chip DRV8870.
 
 ![](/board/board.png)
 
